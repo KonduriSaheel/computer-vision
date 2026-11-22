@@ -1,0 +1,6 @@
+{
+  "name": "VisionGuard",
+  "description": "VisionGuard: An Intelligent Real-Time Computer Vision Framework for Advanced Public Safety and Situational Awareness",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
